@@ -1,0 +1,7 @@
+# Pycharm files
+/.idea
+
+/_private
+
+*.pyc
+__pycache__
