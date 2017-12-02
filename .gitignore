@@ -1,6 +1,12 @@
 # Pycharm files
 /.idea
 
+# Jupyter files
+/.ipynb_checkpoints
+
+# Temp files
+.~*
+
 /_private
 
 *.pyc
