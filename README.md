@@ -86,7 +86,7 @@ Topics:
 - loops
  - for
   - by element on list / tuple
-  - by index on list / tuple
+  - by index on list / tuple (range)
   - by key, value pair in dict
   - by key in dict
  - while
